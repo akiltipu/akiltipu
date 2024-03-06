@@ -16,12 +16,12 @@ My passion for learning drives me to explore innovative solutions that enhance t
 - **Frameworks:** Scrapy, Next.js
 
 ### Certifications
-- AWS Cloud Technology Consultant (AWS - Coursera) - February 2024
-- AWS Certified Solutions Architect – Associate (AWS) - December 2023
-- AWS Certified Cloud Practitioner (AWS) - July 2023
-- AWS Academy Graduate - AWS Academy Cloud Foundations (AWS) - February 2021
-- Scientific Computing and Python for Data Science (The Data Incubator) - December 2019
-- Programming for Everybody (Python), University of Michigan - Coursera - August 2015
+- AWS Cloud Technology Consultant _(AWS - Coursera)_ - February 2024
+- AWS Certified Solutions Architect – Associate _(AWS)_ - December 2023
+- AWS Certified Cloud Practitioner _(AWS)_ - July 2023
+- AWS Academy Graduate - AWS Academy Cloud Foundations _(AWS)_ - February 2021
+- Scientific Computing and Python for Data Science _(The Data Incubator)_ - December 2019
+- Programming for Everybody Python _(University of Michigan - Coursera)_ - August 2015
 
 
 ### View my verified badges
