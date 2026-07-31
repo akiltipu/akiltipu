@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="360" viewBox="0 0 1400 360" role="img" aria-labelledby="title desc">
+  <title id="title">Akil Mahmod Tipu — Senior DevOps and Cloud Engineer</title>
+  <desc id="desc">A modern dark cloud engineering banner featuring Akil Mahmod Tipu, Senior DevOps and Cloud Engineer, with AWS, Kubernetes, Terraform, CI/CD and SRE focus.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111f"/>
+      <stop offset="0.52" stop-color="#0d1b2f"/>
+      <stop offset="1" stop-color="#102844"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1100 92) rotate(118) scale(360 250)">
+      <stop offset="0" stop-color="#26c6da" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#26c6da" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(940 320) rotate(-38) scale(420 220)">
+      <stop offset="0" stop-color="#7c5cff" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#7c5cff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#32d6c7"/>
+      <stop offset="0.5" stop-color="#36a9ff"/>
+      <stop offset="1" stop-color="#8a6cff"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.11"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.035"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#8fb8d6" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="10" stdDeviation="18" flood-color="#000000" flood-opacity="0.32"/>
+    </filter>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="rounded">
+      <rect x="0" y="0" width="1400" height="360" rx="28"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#rounded)">
+    <rect width="1400" height="360" fill="url(#bg)"/>
+    <rect width="1400" height="360" fill="url(#grid)"/>
+    <rect width="1400" height="360" fill="url(#glowA)"/>
+    <rect width="1400" height="360" fill="url(#glowB)"/>
+    <path d="M0 318 C260 258 530 372 820 312 C1012 272 1174 250 1400 286 L1400 360 L0 360 Z" fill="#ffffff" opacity="0.025"/>
+    <path d="M0 334 C300 274 528 390 840 330 C1064 286 1220 286 1400 304" fill="none" stroke="url(#accent)" stroke-opacity="0.24" stroke-width="2"/>
+
+    <g transform="translate(78 64)">
+      <rect x="0" y="0" width="10" height="212" rx="5" fill="url(#accent)"/>
+      <text x="36" y="38" fill="#9fb3c8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="3.2">AKIL MAHMOD TIPU</text>
+      <text x="36" y="100" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="46" font-weight="800" letter-spacing="0.2">SENIOR DEVOPS</text>
+      <text x="36" y="151" fill="url(#accent)" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="46" font-weight="800" letter-spacing="0.2">&amp; CLOUD ENGINEER</text>
+      <text x="38" y="194" fill="#c7d7e5" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="500">Building secure, scalable and observable cloud platforms</text>
+
+      <g transform="translate(36 226)" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="0.8">
+        <g><rect x="0" y="0" width="78" height="34" rx="17" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.12"/><text x="39" y="22" text-anchor="middle" fill="#eaf7ff">AWS</text></g>
+        <g transform="translate(90 0)"><rect x="0" y="0" width="118" height="34" rx="17" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.12"/><text x="59" y="22" text-anchor="middle" fill="#eaf7ff">KUBERNETES</text></g>
+        <g transform="translate(220 0)"><rect x="0" y="0" width="108" height="34" rx="17" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.12"/><text x="54" y="22" text-anchor="middle" fill="#eaf7ff">TERRAFORM</text></g>
+        <g transform="translate(340 0)"><rect x="0" y="0" width="82" height="34" rx="17" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.12"/><text x="41" y="22" text-anchor="middle" fill="#eaf7ff">CI/CD</text></g>
+        <g transform="translate(434 0)"><rect x="0" y="0" width="66" height="34" rx="17" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.12"/><text x="33" y="22" text-anchor="middle" fill="#eaf7ff">SRE</text></g>
+      </g>
+    </g>
+
+    <g transform="translate(845 42)" filter="url(#shadow)">
+      <rect x="0" y="0" width="465" height="276" rx="28" fill="url(#panel)" stroke="#ffffff" stroke-opacity="0.13"/>
+      <g opacity="0.9">
+        <path d="M83 151 H168" stroke="#4ed7d0" stroke-opacity="0.55" stroke-width="2.5" stroke-dasharray="7 8"/>
+        <path d="M244 89 V132" stroke="#57b4ff" stroke-opacity="0.55" stroke-width="2.5" stroke-dasharray="7 8"/>
+        <path d="M244 189 V230" stroke="#846dff" stroke-opacity="0.55" stroke-width="2.5" stroke-dasharray="7 8"/>
+        <path d="M320 151 H396" stroke="#57b4ff" stroke-opacity="0.55" stroke-width="2.5" stroke-dasharray="7 8"/>
+      </g>
+      <g transform="translate(43 117)">
+        <rect x="0" y="0" width="86" height="70" rx="17" fill="#0f2a3d" stroke="#42d2c7" stroke-opacity="0.85"/>
+        <path d="M23 47 H63" stroke="#42d2c7" stroke-width="3" stroke-linecap="round"/>
+        <path d="M31 38 L42 27 L53 38" fill="none" stroke="#42d2c7" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+        <text x="43" y="60" text-anchor="middle" fill="#dffdfa" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="1">CODE</text>
+      </g>
+      <g transform="translate(167 99)">
+        <rect x="0" y="0" width="154" height="104" rx="24" fill="#0d2237" stroke="url(#accent)" stroke-width="2"/>
+        <circle cx="77" cy="42" r="24" fill="#112f4f" stroke="#69c6ff" stroke-opacity="0.85"/>
+        <path d="M77 25 V59 M60 42 H94" stroke="#8ed7ff" stroke-width="3" stroke-linecap="round"/>
+        <text x="77" y="84" text-anchor="middle" fill="#eef8ff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="800" letter-spacing="1.3">CLOUD PLATFORM</text>
+      </g>
+      <g transform="translate(201 22)">
+        <rect x="0" y="0" width="86" height="58" rx="16" fill="#132c43" stroke="#5fc5ff" stroke-opacity="0.8"/>
+        <circle cx="27" cy="29" r="10" fill="none" stroke="#74d1ff" stroke-width="2"/>
+        <path d="M43 21 H64 M43 29 H68 M43 37 H61" stroke="#74d1ff" stroke-width="2" stroke-linecap="round"/>
+        <text x="43" y="50" text-anchor="middle" fill="#dff3ff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="9" font-weight="700" letter-spacing="1">OBSERVE</text>
+      </g>
+      <g transform="translate(201 216)">
+        <rect x="0" y="0" width="86" height="42" rx="15" fill="#1b2344" stroke="#8a76ff" stroke-opacity="0.85"/>
+        <path d="M24 21 H62" stroke="#a99cff" stroke-width="3" stroke-linecap="round"/>
+        <circle cx="31" cy="21" r="5" fill="#a99cff"/>
+        <circle cx="55" cy="21" r="5" fill="#a99cff"/>
+        <text x="43" y="35" text-anchor="middle" fill="#eeeaff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8.5" font-weight="700" letter-spacing="1">AUTOMATE</text>
+      </g>
+      <g transform="translate(355 117)">
+        <rect x="0" y="0" width="86" height="70" rx="17" fill="#112944" stroke="#59b8ff" stroke-opacity="0.85"/>
+        <path d="M27 46 L43 27 L59 46" fill="none" stroke="#72c8ff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M31 46 H55" stroke="#72c8ff" stroke-width="3" stroke-linecap="round"/>
+        <text x="43" y="60" text-anchor="middle" fill="#e2f3ff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="1">SCALE</text>
+      </g>
+      <circle cx="244" cy="151" r="61" fill="none" stroke="url(#accent)" stroke-width="2" stroke-opacity="0.28" filter="url(#softGlow)"/>
+      <circle cx="244" cy="151" r="77" fill="none" stroke="#ffffff" stroke-opacity="0.07"/>
+    </g>
+
+    <circle cx="1325" cy="54" r="4" fill="#32d6c7" opacity="0.8"/>
+    <circle cx="1360" cy="88" r="2.5" fill="#69c6ff" opacity="0.7"/>
+    <circle cx="801" cy="68" r="3" fill="#8a6cff" opacity="0.7"/>
+  </g>
+
+  <rect x="1" y="1" width="1398" height="358" rx="27" fill="none" stroke="#ffffff" stroke-opacity="0.08"/>
+</svg>
