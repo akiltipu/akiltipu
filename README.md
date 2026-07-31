@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./AkilTipu-DevOps-Engineer-banner.svg" alt="Akil Mahmod Tipu — Senior DevOps and Cloud Engineer" width="100%" />
+  <img src="./AkilTipu-Senior-DevOps-Engineer-banner.svg" alt="Akil Mahmod Tipu — Senior DevOps and Cloud Engineer" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Akil Mahmod Tipu</h1>
